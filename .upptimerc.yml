@@ -3,8 +3,70 @@ owner: ajmalalavi # Your GitHub organization or username, where this repository 
 repo: B4K-Site-monitor # The name of this repository
 
 sites:
-  - name: Bricks4Kidz.com
+  - name: CORP/US
     url: https://www.bricks4kidz.com
+  - name: PANAMA
+    url: https://www.bricks4kidz.com.pa
+  - name: MALTA
+    url: https://www.bricks4kidz.com.mt
+  - name: IRELAND
+    url: https://www.bricks4kidz.ie
+  - name: LUXEMBURG
+    url: https://www.bricks4kidz.lu
+  - name: INDIA
+    url: https://www.bricks4kidz.in
+  - name: FRANCE
+    url: https://www.bricks4kidz.fr
+  - name: PERU
+    url: https://www.bricks4kidz.com.pe
+  - name: CHILE
+    url: https://www.bricks4kidz.cl
+  - name: POLAND
+    url: https://www.bricks4kidz.com.pl
+  - name: SWITZERLAND
+    url: https://www.bricks4kidz.ch
+  - name: SINGAPORE
+    url: https://www.bricks4kidz.com.sg
+  - name: MALAYSIA
+    url: https://www.bricks4kidz.my
+  - name: AUSTRIA
+    url: https://www.bricks4kidz.at
+  - name: ROMANIA
+    url: https://www.bricks4kidz.ro
+  - name: MEXICO
+    url: https://www.bricks4kidz.mx
+  - name: MONGOLIA
+    url: https://www.bricks4kidz.mn
+  - name: INDONESIA
+    url: https://www.bricks4kidz.co.id
+  - name: AUSRALIA
+    url: https://www.bricks4kidz.com.au
+  - name: NIGERIA
+    url: https://www.bricks4kidz.ng
+  - name: THAILAND
+    url: https://www.bricks4kidz.co.th
+  - name: UAE
+    url: https://www.bricks4kidz.ae
+  - name: REUNION ISLAND
+    url: https://www.bricks4kidz.re
+  - name: LITHUANIA
+    url: https://www.bricks4kidz.lt
+  - name: TURKEY
+    url: https://www.bricks4kidz.com.tr
+  - name: FMS
+    url: https://bricks4kidznow.com
+  - name: UK
+    url: https://www.bricks4kidz.co.uk
+  - name: PHILIPPINES
+    url: https://www.bricks4kidz.ph
+  - name: ITALY
+    url: https://www.bricks4kidz.it
+  - name: NEW ZEALAND
+    url: https://www.bricks4kidz.co.nz
+  - name: CZECH REPUBLIC
+    url: https://www.bricks4kidz.cz
+  - name: COLUMIBIA
+    url: https://www.bricks4kidz.com.co
 assignees:
   - ajmalalavi
 status-website:
@@ -13,8 +75,8 @@ status-website:
   cname: status.bricks4kidz.com
   # baseUrl: /your-repo-name
   logoUrl: https://www.bricks4kidz.com/wp-content/themes/b4k-corporate/images/public/B4KlogoMark.png
-  name: StroomX Uptime Monitor
-  introTitle: "**Upptime** is the uptime monitor and status page for Bricks 4 Kidz WordPress Websites."
+  name: StroomX Upptime
+  introTitle: "**StroomX Upptime** is the uptime monitor and status page for Bricks 4 Kidz WordPress Websites."
   introMessage:
   navbar: 
     - title: Status
