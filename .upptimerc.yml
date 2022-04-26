@@ -1,27 +1,22 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ajmalalavi # Your GitHub organization or username, where this repository lives
+repo: B4K-Site-monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: Bricks4Kidz.com
+    url: https://www.bricks4kidz.com
+assignees:
+  - ajmalalavi
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.bricks4kidz.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
+  logoUrl: https://www.bricks4kidz.com/wp-content/themes/b4k-corporate/images/public/B4KlogoMark.png
+  name: StroomX Uptime Monitor
+  introTitle: "**Upptime** is the uptime monitor and status page for Bricks 4 Kidz WordPress Websites."
+  introMessage:
+  navbar: 
     - title: Status
       href: /
     - title: GitHub
