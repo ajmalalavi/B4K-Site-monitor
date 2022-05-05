@@ -94,18 +94,20 @@
     "url": "https://www.bricks4kidz.in",
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.in",
     "slug": "india",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3412,
     "timeDay": 3582,
     "timeWeek": 3354,
     "timeMonth": 3412,
     "timeYear": 3412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-05": 2
+    }
   },
   {
     "name": "FRANCE",
@@ -510,19 +512,19 @@
     "url": "https://www.bricks4kidz.it",
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.it",
     "slug": "italy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1096,
-    "timeDay": 1078,
-    "timeWeek": 1093,
-    "timeMonth": 1096,
-    "timeYear": 1096,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1095,
+    "timeDay": 1081,
+    "timeWeek": 1092,
+    "timeMonth": 1095,
+    "timeYear": 1095,
     "dailyMinutesDown": {
-      "2022-05-05": 0
+      "2022-05-05": 11
     }
   },
   {
