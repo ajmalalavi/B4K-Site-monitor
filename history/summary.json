@@ -454,9 +454,9 @@
     "url": "https://us.bricks4kidznow.com",
     "icon": "https://favicons.githubusercontent.com/us.bricks4kidznow.com",
     "slug": "fms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -466,6 +466,7 @@
     "timeMonth": 795,
     "timeYear": 795,
     "dailyMinutesDown": {
+      "2022-05-06": 0,
       "2022-04-26": 7
     }
   },
