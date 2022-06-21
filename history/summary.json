@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.com.pa",
     "slug": "panama",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 1455,
     "timeDay": 1290,
     "timeWeek": 1445,
     "timeMonth": 1525,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2022-06-21": 12
+      "2022-06-21": 26
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://www.bricks4kidz.com.mt",
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.com.mt",
     "slug": "malta",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.87%",
-    "time": 2131,
-    "timeDay": 2204,
-    "timeWeek": 2277,
-    "timeMonth": 2209,
-    "timeYear": 2131,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.86%",
+    "time": 2251,
+    "timeDay": 5756,
+    "timeWeek": 3156,
+    "timeMonth": 2424,
+    "timeYear": 2251,
     "dailyMinutesDown": {
-      "2022-06-21": 11,
+      "2022-06-21": 18,
       "2022-06-14": 75,
       "2022-06-13": 16
     }
@@ -64,19 +64,19 @@
     "url": "https://www.bricks4kidz.ie",
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.ie",
     "slug": "ireland",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.87%",
-    "time": 1424,
-    "timeDay": 1202,
-    "timeWeek": 1347,
-    "timeMonth": 1446,
-    "timeYear": 1424,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.86%",
+    "time": 1421,
+    "timeDay": 1228,
+    "timeWeek": 1336,
+    "timeMonth": 1441,
+    "timeYear": 1421,
     "dailyMinutesDown": {
-      "2022-06-21": 11,
+      "2022-06-21": 17,
       "2022-06-14": 75,
       "2022-06-13": 16
     }
@@ -86,19 +86,19 @@
     "url": "https://www.bricks4kidz.lu",
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.lu",
     "slug": "luxemburg",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.87%",
-    "time": 1128,
-    "timeDay": 943,
-    "timeWeek": 1124,
-    "timeMonth": 1140,
-    "timeYear": 1128,
+    "time": 1126,
+    "timeDay": 959,
+    "timeWeek": 1105,
+    "timeMonth": 1135,
+    "timeYear": 1126,
     "dailyMinutesDown": {
-      "2022-06-21": 10,
+      "2022-06-21": 17,
       "2022-06-14": 75,
       "2022-06-13": 15
     }
@@ -108,19 +108,19 @@
     "url": "https://www.bricks4kidz.in",
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.in",
     "slug": "india",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 3543,
-    "timeDay": 3492,
-    "timeWeek": 3738,
-    "timeMonth": 3570,
-    "timeYear": 3543,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 3557,
+    "timeDay": 3928,
+    "timeWeek": 3816,
+    "timeMonth": 3595,
+    "timeYear": 3557,
     "dailyMinutesDown": {
-      "2022-06-21": 10
+      "2022-06-21": 17
     }
   },
   {
@@ -129,18 +129,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.fr",
     "slug": "france",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 2145,
     "timeDay": 1549,
     "timeWeek": 1597,
     "timeMonth": 2536,
     "timeYear": 2145,
     "dailyMinutesDown": {
-      "2022-06-21": 9
+      "2022-06-21": 24
     }
   },
   {
@@ -149,18 +149,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.com.pe",
     "slug": "peru",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 1415,
     "timeDay": 1203,
     "timeWeek": 1437,
     "timeMonth": 1513,
     "timeYear": 1415,
     "dailyMinutesDown": {
-      "2022-06-21": 9
+      "2022-06-21": 23
     }
   },
   {
@@ -169,18 +169,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.cl",
     "slug": "chile",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 614,
     "timeDay": 405,
     "timeWeek": 517,
     "timeMonth": 637,
     "timeYear": 614,
     "dailyMinutesDown": {
-      "2022-06-21": 8
+      "2022-06-21": 23
     }
   },
   {
@@ -189,18 +189,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.com.pl",
     "slug": "poland",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 2207,
     "timeDay": 2025,
     "timeWeek": 2065,
     "timeMonth": 2133,
     "timeYear": 2207,
     "dailyMinutesDown": {
-      "2022-06-21": 8
+      "2022-06-21": 22
     }
   },
   {
@@ -208,19 +208,19 @@
     "url": "https://www.bricks4kidz.ch",
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.ch",
     "slug": "switzerland",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1765,
-    "timeDay": 1642,
-    "timeWeek": 1764,
-    "timeMonth": 1808,
-    "timeYear": 1765,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 1794,
+    "timeDay": 2576,
+    "timeWeek": 1983,
+    "timeMonth": 1860,
+    "timeYear": 1794,
     "dailyMinutesDown": {
-      "2022-06-21": 7
+      "2022-06-21": 16
     }
   },
   {
@@ -228,19 +228,19 @@
     "url": "https://www.bricks4kidz.com.sg",
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.com.sg",
     "slug": "singapore",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1163,
-    "timeDay": 1179,
-    "timeWeek": 1201,
-    "timeMonth": 1159,
-    "timeYear": 1163,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 1167,
+    "timeDay": 1263,
+    "timeWeek": 1219,
+    "timeMonth": 1164,
+    "timeYear": 1167,
     "dailyMinutesDown": {
-      "2022-06-21": 7
+      "2022-06-21": 16
     }
   },
   {
@@ -249,18 +249,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.my",
     "slug": "malaysia",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 3520,
     "timeDay": 4245,
     "timeWeek": 4303,
     "timeMonth": 4059,
     "timeYear": 3520,
     "dailyMinutesDown": {
-      "2022-06-21": 7
+      "2022-06-21": 21
     }
   },
   {
@@ -269,18 +269,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.at",
     "slug": "austria",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 1866,
     "timeDay": 1680,
     "timeWeek": 1889,
     "timeMonth": 1900,
     "timeYear": 1866,
     "dailyMinutesDown": {
-      "2022-06-21": 6
+      "2022-06-21": 21
     }
   },
   {
@@ -289,18 +289,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.ro",
     "slug": "romania",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 2016,
     "timeDay": 1765,
     "timeWeek": 1934,
     "timeMonth": 2056,
     "timeYear": 2016,
     "dailyMinutesDown": {
-      "2022-06-21": 6
+      "2022-06-21": 20
     }
   },
   {
@@ -309,18 +309,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.mx",
     "slug": "mexico",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 1312,
     "timeDay": 1137,
     "timeWeek": 1186,
     "timeMonth": 1366,
     "timeYear": 1312,
     "dailyMinutesDown": {
-      "2022-06-21": 5
+      "2022-06-21": 20
     }
   },
   {
@@ -329,18 +329,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.mn",
     "slug": "mongolia",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 3617,
     "timeDay": 3664,
     "timeWeek": 3663,
     "timeMonth": 3635,
     "timeYear": 3617,
     "dailyMinutesDown": {
-      "2022-06-21": 5
+      "2022-06-21": 19
     }
   },
   {
@@ -349,18 +349,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.co.id",
     "slug": "indonesia",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 1955,
     "timeDay": 2087,
     "timeWeek": 2080,
     "timeMonth": 1973,
     "timeYear": 1955,
     "dailyMinutesDown": {
-      "2022-06-21": 4
+      "2022-06-21": 19
     }
   },
   {
@@ -369,18 +369,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.com.au",
     "slug": "ausralia",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 1874,
     "timeDay": 1905,
     "timeWeek": 1805,
     "timeMonth": 1742,
     "timeYear": 1874,
     "dailyMinutesDown": {
-      "2022-06-21": 4
+      "2022-06-21": 18
     }
   },
   {
@@ -389,18 +389,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.ng",
     "slug": "nigeria",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 2209,
     "timeDay": 1964,
     "timeWeek": 2143,
     "timeMonth": 2287,
     "timeYear": 2209,
     "dailyMinutesDown": {
-      "2022-06-21": 3
+      "2022-06-21": 18
     }
   },
   {
@@ -409,18 +409,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.co.th",
     "slug": "thailand",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 3821,
     "timeDay": 3778,
     "timeWeek": 4026,
     "timeMonth": 3799,
     "timeYear": 3821,
     "dailyMinutesDown": {
-      "2022-06-21": 3
+      "2022-06-21": 17
     }
   },
   {
@@ -428,19 +428,19 @@
     "url": "https://www.bricks4kidz.ae",
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.ae",
     "slug": "uae",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 3460,
-    "timeDay": 3596,
-    "timeWeek": 3563,
-    "timeMonth": 3490,
-    "timeYear": 3460,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 3597,
+    "timeDay": 7549,
+    "timeWeek": 4555,
+    "timeMonth": 3740,
+    "timeYear": 3597,
     "dailyMinutesDown": {
-      "2022-06-21": 2
+      "2022-06-21": 15
     }
   },
   {
@@ -448,19 +448,19 @@
     "url": "https://www.bricks4kidz.re",
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.re",
     "slug": "reunion-island",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2068,
-    "timeDay": 1861,
-    "timeWeek": 2075,
-    "timeMonth": 2092,
-    "timeYear": 2068,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 2093,
+    "timeDay": 2715,
+    "timeWeek": 2262,
+    "timeMonth": 2137,
+    "timeYear": 2093,
     "dailyMinutesDown": {
-      "2022-06-21": 2
+      "2022-06-21": 15
     }
   },
   {
@@ -469,18 +469,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.lt",
     "slug": "lithuania",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 1005,
     "timeDay": 803,
     "timeWeek": 949,
     "timeMonth": 1020,
     "timeYear": 1005,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 16
     }
   },
   {
@@ -489,18 +489,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.com.tr",
     "slug": "turkey",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1854,
     "timeDay": 1901,
     "timeWeek": 1995,
     "timeMonth": 1861,
     "timeYear": 1854,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 15
     }
   },
   {
@@ -548,18 +548,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.ph",
     "slug": "philippines",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 3531,
     "timeDay": 3827,
     "timeWeek": 3805,
     "timeMonth": 3548,
     "timeYear": 3531,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 15
     }
   },
   {
@@ -568,18 +568,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.it",
     "slug": "italy",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1199,
     "timeDay": 1052,
     "timeWeek": 1148,
     "timeMonth": 1192,
     "timeYear": 1199,
     "dailyMinutesDown": {
-      "2022-06-21": 1
+      "2022-06-21": 15
     }
   },
   {
