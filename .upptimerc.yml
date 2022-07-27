@@ -78,11 +78,7 @@ status-website:
   name: StroomX Upptime
   introTitle: "**StroomX Upptime** is the uptime monitor and status page for Bricks 4 Kidz WordPress Websites."
   introMessage:
-  navbar: 
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  navbar:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
