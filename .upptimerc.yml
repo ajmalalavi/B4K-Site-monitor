@@ -73,7 +73,7 @@ status-website:
   cname: status.bricks4kidz.com
   # baseUrl: /your-repo-name
   logoUrl: https://www.bricks4kidz.com/wp-content/themes/b4k-corporate/images/public/B4KlogoMark.png
-  name: StroomX Upptime
+  name: StroomX Uptime monitor
   introTitle: Uptime monitor and status page for Bricks 4 Kidz WordPress Websites."
   introMessage:
   navbar:
