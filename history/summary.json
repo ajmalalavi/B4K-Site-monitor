@@ -271,11 +271,11 @@
     "url": "https://www.bricks4kidz.at",
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.at",
     "slug": "austria",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 1905,
     "timeDay": 1635,
@@ -283,6 +283,7 @@
     "timeMonth": 1892,
     "timeYear": 1905,
     "dailyMinutesDown": {
+      "2022-09-14": 4,
       "2022-06-21": 31
     }
   },
@@ -476,11 +477,11 @@
     "url": "https://www.bricks4kidz.lt",
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.lt",
     "slug": "lithuania",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1055,
     "timeDay": 1012,
@@ -488,6 +489,7 @@
     "timeMonth": 1088,
     "timeYear": 1055,
     "dailyMinutesDown": {
+      "2022-09-14": 2,
       "2022-06-21": 27
     }
   },
@@ -579,9 +581,9 @@
     "url": "https://www.bricks4kidz.it",
     "icon": "https://favicons.githubusercontent.com/www.bricks4kidz.it",
     "slug": "italy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "92.52%",
+    "uptimeDay": "92.48%",
     "uptimeWeek": "98.93%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.93%",
@@ -591,7 +593,7 @@
     "timeMonth": 1156,
     "timeYear": 1334,
     "dailyMinutesDown": {
-      "2022-09-14": 108,
+      "2022-09-14": 109,
       "2022-06-21": 26
     }
   },
