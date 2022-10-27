@@ -66,7 +66,7 @@ sites:
   - name: COLUMIBIA
     url: https://www.bricks4kidz.com.co
   - name: Testing
-    url: https://testingb4k.com
+    url: https://wptips.dev
 assignees:
   - ajmalalavi
 status-website:
