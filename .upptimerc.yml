@@ -3,8 +3,10 @@ owner: ajmalalavi # Your GitHub organization or username, where this repository 
 repo: B4K-Site-monitor # The name of this repository
 
 sites:
-  - name: CORP/US
+  - name: CORP
     url: https://www.bricks4kidz.com
+  - name: US
+    url: https://www.bricks4kidz.us
   - name: PANAMA
     url: https://www.bricks4kidz.com.pa
   - name: MALTA
