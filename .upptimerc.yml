@@ -26,7 +26,7 @@ sites:
   - name: SWITZERLAND
     url: https://www.bricks4kidz.ch
   - name: SINGAPORE
-    url: https://www.bricks4kidz.com.sg
+    url: https://www.bricks4kidz.sg
   - name: MALAYSIA
     url: https://www.bricks4kidz.my
   - name: AUSTRIA
@@ -44,7 +44,7 @@ sites:
   - name: NIGERIA
     url: https://www.bricks4kidz.ng
   - name: THAILAND
-    url: https://www.bricks4kidz.co.th
+    url: https://th.bricks4kidz.com
   - name: UAE
     url: https://www.bricks4kidz.ae
   - name: REUNION ISLAND
@@ -66,7 +66,7 @@ sites:
   - name: CZECH REPUBLIC
     url: https://www.bricks4kidz.cz
   - name: COLUMIBIA
-    url: https://www.bricks4kidz.com.co
+    url: https://www.bricks4kidz.co
 assignees:
   - ajmalalavi
 status-website:
