@@ -24,19 +24,19 @@
     "url": "https://www.bricks4kidz.us",
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.us.ico",
     "slug": "us",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 549,
+    "time": 550,
     "timeDay": 761,
-    "timeWeek": 619,
-    "timeMonth": 569,
-    "timeYear": 549,
+    "timeWeek": 637,
+    "timeMonth": 575,
+    "timeYear": 550,
     "dailyMinutesDown": {
-      "2024-01-15": 2
+      "2024-01-15": 18
     }
   },
   {
