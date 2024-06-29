@@ -67,17 +67,17 @@
     "slug": "malta",
     "status": "down",
     "uptime": "97.91%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 2211,
     "timeDay": 1837,
     "timeWeek": 1879,
     "timeMonth": 1896,
     "timeYear": 2051,
     "dailyMinutesDown": {
-      "2024-06-29": 9,
+      "2024-06-29": 22,
       "2024-03-29": 16
     }
   },
@@ -432,7 +432,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/th.bricks4kidz.com.ico",
     "slug": "thailand",
     "status": "up",
-    "uptime": "70.45%",
+    "uptime": "70.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -572,18 +572,20 @@
     "url": "https://www.bricks4kidz.re",
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.re.ico",
     "slug": "reunion-island",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1934,
     "timeDay": 1527,
     "timeWeek": 1707,
     "timeMonth": 1674,
     "timeYear": 1906,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-29": 3
+    }
   },
   {
     "name": "LITHUANIA",
@@ -641,7 +643,7 @@
     "timeMonth": 100,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2024-06-29": 866,
+      "2024-06-29": 879,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
