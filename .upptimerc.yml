@@ -7,8 +7,8 @@ sites:
     url: https://www.bricks4kidz.com
   - name: US
     url: https://www.bricks4kidz.us
-  - name: PANAMA
-    url: https://www.bricks4kidz.com.pa
+  - name: MOROCCO
+    url: https://www.bricks4kidz.ma
   - name: MALTA
     url: https://www.bricks4kidz.mt
   - name: IRELAND
@@ -29,8 +29,6 @@ sites:
     url: https://www.bricks4kidz.sg
   - name: MALAYSIA
     url: https://www.bricks4kidz.my
-  - name: AUSTRIA
-    url: https://www.bricks4kidz.at
   - name: MEXICO
     url: https://www.bricks4kidz.mx
   - name: MONGOLIA
@@ -42,7 +40,7 @@ sites:
   - name: NIGERIA
     url: https://www.bricks4kidz.ng
   - name: THAILAND
-    url: https://th.bricks4kidz.com
+    url: https://bricks4kidz.com.th
   - name: UAE
     url: https://www.bricks4kidz.ae
   - name: REUNION ISLAND
@@ -51,10 +49,12 @@ sites:
     url: https://www.bricks4kidz.lt
   - name: TURKEY
     url: https://www.bricks4kidz.com.tr
-  - name: FMS
-    url: https://us.bricks4kidznow.com
+  - name: FMS Prod
+    url: https://my.bricks4kidznow.com
+  - name: FMS Dev
+    url: https://dev.bricks4kidznow.com
   - name: UK
-    url: https://www.bricks4kidz.co.uk
+    url: https://www.bricks4kidz.uk
   - name: PHILIPPINES
     url: https://www.bricks4kidz.ph
   - name: ITALY
@@ -63,8 +63,8 @@ sites:
     url: https://www.bricks4kidz.co.nz
   - name: CZECH REPUBLIC
     url: https://www.bricks4kidz.cz
-  - name: COLUMIBIA
-    url: https://www.bricks4kidz.co
+  - name: ROMANIA
+    url: https://www.bricks4kidz.com.ro
 assignees:
   - ajmalalavi
 status-website:
