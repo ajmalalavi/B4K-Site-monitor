@@ -436,7 +436,7 @@
     "timeMonth": 0,
     "timeYear": 2176,
     "dailyMinutesDown": {
-      "2024-09-26": 473,
+      "2024-09-26": 474,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
       "2024-09-23": 1440,
@@ -575,18 +575,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.bricks4kidznow.com.ico",
     "slug": "fms-prod",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 117,
     "timeDay": 117,
     "timeWeek": 117,
     "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2024-09-26": 1
+      "2024-09-26": 2
     }
   },
   {
@@ -595,18 +595,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.bricks4kidznow.com.ico",
     "slug": "fms-dev",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.39%",
+    "uptimeDay": "0.39%",
+    "uptimeWeek": "0.39%",
+    "uptimeMonth": "0.39%",
+    "uptimeYear": "0.39%",
     "time": 65,
     "timeDay": 65,
     "timeWeek": 65,
     "timeMonth": 65,
     "timeYear": 65,
     "dailyMinutesDown": {
-      "2024-09-26": 1
+      "2024-09-26": 2
     }
   },
   {
