@@ -315,10 +315,10 @@
     "url": "https://www.bricks4kidz.mx",
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.mx.ico",
     "slug": "mexico",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 1107,
@@ -327,7 +327,7 @@
     "timeMonth": 600,
     "timeYear": 1044,
     "dailyMinutesDown": {
-      "2024-10-29": 20,
+      "2024-10-29": 21,
       "2024-10-21": 24,
       "2024-07-28": 21
     }
@@ -428,14 +428,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.65%",
+    "uptimeYear": "81.64%",
     "time": 2176,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2118,
     "dailyMinutesDown": {
-      "2024-10-29": 613,
+      "2024-10-29": 637,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
@@ -610,7 +610,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-10-29": 613,
+      "2024-10-29": 637,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
@@ -663,7 +663,7 @@
     "timeMonth": 108,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2024-10-29": 613,
+      "2024-10-29": 637,
       "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
