@@ -167,19 +167,19 @@
     "url": "https://www.bricks4kidz.cl",
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.cl.ico",
     "slug": "chile",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 718,
-    "timeDay": 692,
-    "timeWeek": 535,
-    "timeMonth": 634,
+    "timeDay": 785,
+    "timeWeek": 578,
+    "timeMonth": 642,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2024-12-10": 1,
+      "2024-12-10": 9,
       "2024-10-21": 24,
       "2024-07-28": 21
     }
@@ -327,7 +327,7 @@
     "timeMonth": 0,
     "timeYear": 981,
     "dailyMinutesDown": {
-      "2024-12-10": 1067,
+      "2024-12-10": 1075,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -484,7 +484,7 @@
     "timeMonth": 0,
     "timeYear": 1984,
     "dailyMinutesDown": {
-      "2024-12-10": 1067,
+      "2024-12-10": 1075,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -702,7 +702,7 @@
     "timeMonth": 109,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-12-10": 1067,
+      "2024-12-10": 1076,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -797,7 +797,7 @@
     "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2024-12-10": 1067,
+      "2024-12-10": 1076,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
