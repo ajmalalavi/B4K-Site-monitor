@@ -25,19 +25,19 @@
     "url": "https://www.bricks4kidz.us",
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.us.ico",
     "slug": "us",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 620,
-    "timeDay": 417,
-    "timeWeek": 610,
-    "timeMonth": 735,
+    "timeDay": 487,
+    "timeWeek": 612,
+    "timeMonth": 731,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2025-02-07": 1,
+      "2025-02-07": 10,
       "2024-07-28": 37,
       "2024-07-07": 19
     }
@@ -326,7 +326,7 @@
     "timeMonth": 0,
     "timeYear": 846,
     "dailyMinutesDown": {
-      "2025-02-07": 700,
+      "2025-02-07": 711,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
@@ -542,7 +542,7 @@
     "timeMonth": 0,
     "timeYear": 1751,
     "dailyMinutesDown": {
-      "2025-02-07": 700,
+      "2025-02-07": 711,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
@@ -816,7 +816,7 @@
     "timeMonth": 116,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-02-07": 701,
+      "2025-02-07": 711,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
@@ -970,7 +970,7 @@
     "timeMonth": 101,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2025-02-07": 701,
+      "2025-02-07": 711,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
