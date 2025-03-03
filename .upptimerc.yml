@@ -47,10 +47,6 @@ sites:
     url: https://www.bricks4kidz.lt
   - name: TURKEY
     url: https://www.bricks4kidz.com.tr
-  - name: FMS Prod
-    url: https://my.bricks4kidznow.com/login.php
-  - name: FMS Dev
-    url: https://dev.bricks4kidznow.com/login.php
   - name: UK
     url: https://www.bricks4kidz.uk
   - name: PHILIPPINES
