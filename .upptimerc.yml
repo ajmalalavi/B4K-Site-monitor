@@ -29,8 +29,6 @@ sites:
     url: https://www.bricks4kidz.sg
   - name: MALAYSIA
     url: https://www.bricks4kidz.my
-  - name: MEXICO
-    url: https://www.bricks4kidz.mx
   - name: MONGOLIA
     url: https://www.bricks4kidz.mn
   - name: INDONESIA
@@ -40,7 +38,7 @@ sites:
   - name: NIGERIA
     url: https://www.bricks4kidz.ng
   - name: THAILAND
-    url: https://bricks4kidz.com.th
+    url: https://bricks4kidz.co.th
   - name: UAE
     url: https://www.bricks4kidz.ae
   - name: REUNION ISLAND
@@ -50,9 +48,9 @@ sites:
   - name: TURKEY
     url: https://www.bricks4kidz.com.tr
   - name: FMS Prod
-    url: https://my.bricks4kidznow.com
+    url: https://my.bricks4kidznow.com/login.php
   - name: FMS Dev
-    url: https://dev.bricks4kidznow.com
+    url: https://dev.bricks4kidznow.com/login.php
   - name: UK
     url: https://www.bricks4kidz.uk
   - name: PHILIPPINES
