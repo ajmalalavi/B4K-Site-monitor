@@ -7,114 +7,142 @@ sites:
     url: https://www.bricks4kidz.com
     expectedStatusCodes:
       - 403
+      - 200
   - name: US
     url: https://www.bricks4kidz.us
     expectedStatusCodes:
       - 403
+      - 200
   - name: MOROCCO
     url: https://www.bricks4kidz.ma
     expectedStatusCodes:
       - 403
+      - 200
   - name: MALTA
     url: https://www.bricks4kidz.mt
     expectedStatusCodes:
       - 403
+      - 200
   - name: IRELAND
     url: https://www.bricks4kidz.ie
     expectedStatusCodes:
       - 403
+      - 200
   - name: LUXEMBURG
     url: https://www.bricks4kidz.lu
     expectedStatusCodes:
       - 403
+      - 200
   - name: INDIA
     url: https://www.bricks4kidz.in
     expectedStatusCodes:
       - 403
+      - 200
   - name: FRANCE
     url: https://www.bricks4kidz.fr
     expectedStatusCodes:
       - 403
+      - 200
   - name: CHILE
     url: https://www.bricks4kidz.cl
     expectedStatusCodes:
       - 403
+      - 200
   - name: POLAND
     url: https://www.bricks4kidz.com.pl
     expectedStatusCodes:
       - 403
+      - 200
   - name: SWITZERLAND
     url: https://www.bricks4kidz.ch
     expectedStatusCodes:
       - 403
+      - 200
   - name: SINGAPORE
     url: https://www.bricks4kidz.sg
     expectedStatusCodes:
       - 403
+      - 200
   - name: MALAYSIA
     url: https://www.bricks4kidz.my
     expectedStatusCodes:
       - 403
+      - 200
   - name: MONGOLIA
     url: https://www.bricks4kidz.mn
     expectedStatusCodes:
       - 403
+      - 200
   - name: INDONESIA
     url: https://www.bricks4kidz.id
     expectedStatusCodes:
       - 403
+      - 200
   - name: AUSTRALIA
     url: https://www.bricks4kidz.com.au
     expectedStatusCodes:
       - 403
+      - 200
   - name: NIGERIA
     url: https://www.bricks4kidz.ng
     expectedStatusCodes:
       - 403
+      - 200
   - name: THAILAND
     url: https://bricks4kidz.co.th
     expectedStatusCodes:
       - 403
+      - 200
   - name: UAE
     url: https://www.bricks4kidz.ae
     expectedStatusCodes:
       - 403
+      - 200
   - name: REUNION ISLAND
     url: https://www.bricks4kidz.re
     expectedStatusCodes:
       - 403
+      - 200
   - name: LITHUANIA
     url: https://www.bricks4kidz.lt
     expectedStatusCodes:
       - 403
+      - 200
   - name: TURKEY
     url: https://www.bricks4kidz.com.tr
     expectedStatusCodes:
       - 403
+      - 200
   - name: UK
     url: https://www.bricks4kidz.uk
     expectedStatusCodes:
       - 403
+      - 200
   - name: PHILIPPINES
     url: https://www.bricks4kidz.ph
     expectedStatusCodes:
       - 403
+      - 200
   - name: ITALY
     url: https://www.bricks4kidz.it
     expectedStatusCodes:
       - 403
+      - 200
   - name: NEW ZEALAND
     url: https://www.bricks4kidz.co.nz
     expectedStatusCodes:
       - 403
+      - 200
   - name: CZECH REPUBLIC
     url: https://www.bricks4kidz.cz
     expectedStatusCodes:
       - 403
+      - 200
   - name: ROMANIA
     url: https://www.bricks4kidz.com.ro
     expectedStatusCodes:
       - 403
+      - 200
 assignees:
   - ajmalalavi
 status-website:
