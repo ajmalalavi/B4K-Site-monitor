@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.com.ico",
     "slug": "corp",
     "status": "up",
-    "uptime": "89.90%",
+    "uptime": "89.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "74.71%",
     "time": 666,
-    "timeDay": 583,
-    "timeWeek": 674,
-    "timeMonth": 647,
+    "timeDay": 504,
+    "timeWeek": 667,
+    "timeMonth": 641,
     "timeYear": 681,
     "dailyMinutesDown": {
       "2025-07-19": 34,
@@ -116,8 +116,7 @@
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1078,
-      "2024-10-21": 24,
-      "2024-07-28": 21
+      "2024-10-21": 24
     }
   },
   {
@@ -126,16 +125,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.us.ico",
     "slug": "us",
     "status": "up",
-    "uptime": "89.90%",
+    "uptime": "89.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "74.71%",
     "time": 666,
-    "timeDay": 938,
-    "timeWeek": 845,
-    "timeMonth": 759,
-    "timeYear": 702,
+    "timeDay": 554,
+    "timeWeek": 847,
+    "timeMonth": 748,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2025-07-19": 34,
       "2025-07-09": 108,
@@ -236,8 +235,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1078,
-      "2024-07-28": 37
+      "2025-03-06": 1078
     }
   },
   {
@@ -246,16 +244,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.ma.ico",
     "slug": "morocco",
     "status": "up",
-    "uptime": "82.23%",
+    "uptime": "82.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "82.23%",
-    "time": 2510,
-    "timeDay": 4670,
-    "timeWeek": 3488,
-    "timeMonth": 2936,
-    "timeYear": 2510,
+    "uptimeYear": "82.29%",
+    "time": 2511,
+    "timeDay": 2845,
+    "timeWeek": 3529,
+    "timeMonth": 2954,
+    "timeYear": 2511,
     "dailyMinutesDown": {
       "2025-07-19": 34,
       "2025-07-09": 108,
@@ -326,18 +324,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.mt.ico",
     "slug": "malta",
     "status": "down",
-    "uptime": "86.56%",
+    "uptime": "86.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "60.83%",
+    "uptimeYear": "60.55%",
     "time": 2212,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2138,
+    "timeYear": 2133,
     "dailyMinutesDown": {
-      "2025-07-27": 123,
+      "2025-07-28": 121,
+      "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -480,8 +479,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1077,
-      "2024-07-28": 213
+      "2025-03-06": 1077
     }
   },
   {
@@ -490,16 +488,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.ie.ico",
     "slug": "ireland",
     "status": "up",
-    "uptime": "92.20%",
+    "uptime": "92.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "74.68%",
-    "time": 1068,
-    "timeDay": 989,
-    "timeWeek": 969,
-    "timeMonth": 922,
-    "timeYear": 1056,
+    "time": 1069,
+    "timeDay": 1004,
+    "timeWeek": 981,
+    "timeMonth": 921,
+    "timeYear": 1050,
     "dailyMinutesDown": {
       "2025-07-19": 34,
       "2025-07-09": 108,
@@ -600,8 +598,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1077,
-      "2024-07-28": 212
+      "2025-03-06": 1077
     }
   },
   {
@@ -615,11 +612,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "74.68%",
-    "time": 846,
-    "timeDay": 1129,
-    "timeWeek": 861,
-    "timeMonth": 711,
-    "timeYear": 823,
+    "time": 847,
+    "timeDay": 646,
+    "timeWeek": 837,
+    "timeMonth": 699,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2025-07-19": 34,
       "2025-07-09": 108,
@@ -720,8 +717,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1077,
-      "2024-07-28": 210
+      "2025-03-06": 1077
     }
   },
   {
@@ -734,12 +730,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "79.58%",
-    "time": 1372,
-    "timeDay": 1311,
-    "timeWeek": 1497,
-    "timeMonth": 1451,
-    "timeYear": 1454,
+    "uptimeYear": "79.59%",
+    "time": 1371,
+    "timeDay": 1393,
+    "timeWeek": 1473,
+    "timeMonth": 1464,
+    "timeYear": 1456,
     "dailyMinutesDown": {
       "2025-07-19": 34,
       "2025-07-09": 108,
@@ -822,8 +818,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1077,
-      "2024-07-28": 66
+      "2025-03-06": 1077
     }
   },
   {
@@ -837,11 +832,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "74.68%",
-    "time": 1148,
-    "timeDay": 917,
-    "timeWeek": 963,
-    "timeMonth": 968,
-    "timeYear": 1088,
+    "time": 1147,
+    "timeDay": 704,
+    "timeWeek": 931,
+    "timeMonth": 962,
+    "timeYear": 1081,
     "dailyMinutesDown": {
       "2025-07-19": 34,
       "2025-07-09": 108,
@@ -942,8 +937,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1077,
-      "2024-07-28": 209
+      "2025-03-06": 1077
     }
   },
   {
@@ -958,9 +952,9 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "91.82%",
     "time": 680,
-    "timeDay": 622,
-    "timeWeek": 723,
-    "timeMonth": 698,
+    "timeDay": 683,
+    "timeWeek": 734,
+    "timeMonth": 694,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2025-07-19": 34,
@@ -1000,8 +994,7 @@
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1077,
-      "2024-10-21": 24,
-      "2024-07-28": 21
+      "2024-10-21": 24
     }
   },
   {
@@ -1015,11 +1008,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "81.38%",
-    "time": 1172,
-    "timeDay": 601,
-    "timeWeek": 786,
-    "timeMonth": 679,
-    "timeYear": 840,
+    "time": 1169,
+    "timeDay": 406,
+    "timeWeek": 708,
+    "timeMonth": 667,
+    "timeYear": 830,
     "dailyMinutesDown": {
       "2025-07-19": 34,
       "2025-07-09": 108,
@@ -1096,8 +1089,7 @@
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1077,
-      "2024-09-03": 21,
-      "2024-07-28": 208
+      "2024-09-03": 21
     }
   },
   {
@@ -1111,11 +1103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.47%",
-    "time": 1307,
-    "timeDay": 124,
-    "timeWeek": 122,
-    "timeMonth": 736,
-    "timeYear": 1216,
+    "time": 1305,
+    "timeDay": 142,
+    "timeWeek": 131,
+    "timeMonth": 699,
+    "timeYear": 1211,
     "dailyMinutesDown": {
       "2025-07-09": 108,
       "2025-07-02": 31,
@@ -1125,8 +1117,7 @@
       "2025-06-15": 7,
       "2025-03-06": 234,
       "2025-03-05": 1305,
-      "2025-03-04": 741,
-      "2024-07-28": 207
+      "2025-03-04": 741
     }
   },
   {
@@ -1139,12 +1130,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "91.07%",
+    "uptimeYear": "91.08%",
     "time": 1084,
-    "timeDay": 1227,
-    "timeWeek": 1173,
-    "timeMonth": 1135,
-    "timeYear": 1118,
+    "timeDay": 1360,
+    "timeWeek": 1207,
+    "timeMonth": 1149,
+    "timeYear": 1117,
     "dailyMinutesDown": {
       "2025-07-19": 34,
       "2025-07-09": 108,
@@ -1186,8 +1177,7 @@
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1077,
-      "2024-10-10": 20,
-      "2024-07-28": 66
+      "2024-10-10": 20
     }
   },
   {
@@ -1196,16 +1186,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.my.ico",
     "slug": "malaysia",
     "status": "up",
-    "uptime": "89.31%",
+    "uptime": "89.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "79.58%",
-    "time": 1690,
-    "timeDay": 2424,
-    "timeWeek": 1555,
-    "timeMonth": 1855,
-    "timeYear": 1593,
+    "uptimeYear": "79.59%",
+    "time": 1689,
+    "timeDay": 1360,
+    "timeWeek": 1491,
+    "timeMonth": 1871,
+    "timeYear": 1591,
     "dailyMinutesDown": {
       "2025-07-19": 34,
       "2025-07-09": 108,
@@ -1288,8 +1278,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1077,
-      "2024-07-28": 66
+      "2025-03-06": 1077
     }
   },
   {
@@ -1304,10 +1293,10 @@
     "uptimeMonth": "99.38%",
     "uptimeYear": "75.71%",
     "time": 1796,
-    "timeDay": 2239,
-    "timeWeek": 2113,
-    "timeMonth": 1879,
-    "timeYear": 1766,
+    "timeDay": 2144,
+    "timeWeek": 2132,
+    "timeMonth": 1882,
+    "timeYear": 1770,
     "dailyMinutesDown": {
       "2025-07-19": 34,
       "2025-07-15": 97,
@@ -1419,16 +1408,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.id.ico",
     "slug": "indonesia",
     "status": "up",
-    "uptime": "90.95%",
+    "uptime": "90.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.39%",
-    "uptimeYear": "75.71%",
-    "time": 1654,
-    "timeDay": 1747,
-    "timeWeek": 1844,
-    "timeMonth": 1776,
-    "timeYear": 1636,
+    "uptimeYear": "75.72%",
+    "time": 1652,
+    "timeDay": 1664,
+    "timeWeek": 1852,
+    "timeMonth": 1777,
+    "timeYear": 1638,
     "dailyMinutesDown": {
       "2025-07-19": 34,
       "2025-07-15": 95,
@@ -1544,10 +1533,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.39%",
-    "time": 1277,
-    "timeDay": 170,
-    "timeWeek": 208,
-    "timeMonth": 831,
+    "time": 1275,
+    "timeDay": 211,
+    "timeWeek": 205,
+    "timeMonth": 794,
     "timeYear": 1214,
     "dailyMinutesDown": {
       "2025-07-09": 108,
@@ -1576,10 +1565,10 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "74.71%",
     "time": 1986,
-    "timeDay": 3038,
-    "timeWeek": 3009,
-    "timeMonth": 2601,
-    "timeYear": 1794,
+    "timeDay": 2090,
+    "timeWeek": 2977,
+    "timeMonth": 2630,
+    "timeYear": 1800,
     "dailyMinutesDown": {
       "2025-07-19": 34,
       "2025-07-09": 108,
@@ -1690,16 +1679,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bricks4kidz.co.th.ico",
     "slug": "thailand",
     "status": "up",
-    "uptime": "57.79%",
+    "uptime": "57.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "27.03%",
-    "time": 1648,
-    "timeDay": 2489,
-    "timeWeek": 2236,
-    "timeMonth": 2020,
-    "timeYear": 1831,
+    "time": 1653,
+    "timeDay": 2526,
+    "timeWeek": 2351,
+    "timeMonth": 2056,
+    "timeYear": 1848,
     "dailyMinutesDown": {
       "2025-07-19": 34,
       "2025-07-09": 108,
@@ -1989,10 +1978,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.41%",
-    "time": 984,
-    "timeDay": 129,
-    "timeWeek": 104,
-    "timeMonth": 632,
+    "time": 983,
+    "timeDay": 68,
+    "timeWeek": 97,
+    "timeMonth": 575,
     "timeYear": 1061,
     "dailyMinutesDown": {
       "2025-07-09": 108,
@@ -2018,9 +2007,9 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "74.68%",
     "time": 1874,
-    "timeDay": 1671,
-    "timeWeek": 1653,
-    "timeMonth": 1564,
+    "timeDay": 1790,
+    "timeWeek": 1681,
+    "timeMonth": 1560,
     "timeYear": 1798,
     "dailyMinutesDown": {
       "2025-07-19": 35,
@@ -2122,8 +2111,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1076,
-      "2024-07-28": 205
+      "2025-03-06": 1076
     }
   },
   {
@@ -2132,16 +2120,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.lt.ico",
     "slug": "lithuania",
     "status": "up",
-    "uptime": "92.21%",
+    "uptime": "92.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "74.68%",
     "time": 828,
-    "timeDay": 827,
-    "timeWeek": 743,
-    "timeMonth": 712,
-    "timeYear": 824,
+    "timeDay": 617,
+    "timeWeek": 750,
+    "timeMonth": 710,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2025-07-19": 35,
       "2025-07-09": 108,
@@ -2242,8 +2230,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1076,
-      "2024-07-28": 203
+      "2025-03-06": 1076
     }
   },
   {
@@ -2257,11 +2244,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "75.72%",
-    "time": 1936,
-    "timeDay": 1802,
-    "timeWeek": 2195,
-    "timeMonth": 1855,
-    "timeYear": 1926,
+    "time": 1937,
+    "timeDay": 2645,
+    "timeWeek": 2142,
+    "timeMonth": 1874,
+    "timeYear": 1917,
     "dailyMinutesDown": {
       "2025-07-19": 35,
       "2025-07-15": 91,
@@ -2377,10 +2364,10 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "74.68%",
     "time": 1454,
-    "timeDay": 1547,
-    "timeWeek": 1598,
-    "timeMonth": 1219,
-    "timeYear": 1348,
+    "timeDay": 1331,
+    "timeWeek": 1581,
+    "timeMonth": 1222,
+    "timeYear": 1347,
     "dailyMinutesDown": {
       "2025-07-19": 35,
       "2025-07-09": 108,
@@ -2481,8 +2468,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1076,
-      "2024-07-28": 202
+      "2025-03-06": 1076
     }
   },
   {
@@ -2491,16 +2477,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.ph.ico",
     "slug": "philippines",
     "status": "up",
-    "uptime": "92.48%",
+    "uptime": "92.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
-    "uptimeYear": "75.72%",
-    "time": 1386,
-    "timeDay": 1687,
-    "timeWeek": 1461,
-    "timeMonth": 1319,
-    "timeYear": 1375,
+    "uptimeYear": "75.73%",
+    "time": 1388,
+    "timeDay": 1722,
+    "timeWeek": 1531,
+    "timeMonth": 1329,
+    "timeYear": 1378,
     "dailyMinutesDown": {
       "2025-07-19": 35,
       "2025-07-15": 75,
@@ -2610,15 +2596,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.it.ico",
     "slug": "italy",
     "status": "up",
-    "uptime": "92.16%",
+    "uptime": "92.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "74.68%",
     "time": 804,
-    "timeDay": 758,
-    "timeWeek": 694,
-    "timeMonth": 676,
+    "timeDay": 666,
+    "timeWeek": 703,
+    "timeMonth": 673,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2025-07-19": 35,
@@ -2720,8 +2706,7 @@
       "2025-03-09": 1440,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
-      "2025-03-06": 1076,
-      "2024-07-28": 199
+      "2025-03-06": 1076
     }
   },
   {
@@ -2735,11 +2720,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.38%",
-    "time": 1712,
-    "timeDay": 123,
-    "timeWeek": 182,
-    "timeMonth": 1060,
-    "timeYear": 1695,
+    "time": 1710,
+    "timeDay": 47,
+    "timeWeek": 154,
+    "timeMonth": 1003,
+    "timeYear": 1696,
     "dailyMinutesDown": {
       "2025-07-09": 108,
       "2025-07-02": 32,
@@ -2760,16 +2745,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bricks4kidz.cz.ico",
     "slug": "czech-republic",
     "status": "up",
-    "uptime": "91.95%",
+    "uptime": "91.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "74.68%",
     "time": 1223,
-    "timeDay": 1091,
-    "timeWeek": 1015,
-    "timeMonth": 948,
-    "timeYear": 1133,
+    "timeDay": 873,
+    "timeWeek": 1002,
+    "timeMonth": 942,
+    "timeYear": 1132,
     "dailyMinutesDown": {
       "2025-07-19": 35,
       "2025-07-09": 108,
@@ -2871,8 +2856,7 @@
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1076,
-      "2024-08-23": 28,
-      "2024-07-28": 199
+      "2024-08-23": 28
     }
   },
   {
@@ -2885,11 +2869,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "52.39%",
-    "time": 1700,
-    "timeDay": 1506,
-    "timeWeek": 1519,
-    "timeMonth": 1789,
+    "uptimeYear": "52.87%",
+    "time": 1698,
+    "timeDay": 1436,
+    "timeWeek": 1518,
+    "timeMonth": 1796,
     "timeYear": 1589,
     "dailyMinutesDown": {
       "2025-07-19": 35,
@@ -3043,8 +3027,7 @@
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
-      "2024-07-29": 1440,
-      "2024-07-28": 1440
+      "2024-07-29": 1440
     }
   }
 ]
